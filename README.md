@@ -2,4 +2,5 @@
 2023/07/05
 
 git/github演習
-https://github.com/kk4m10/hello-world/blob/main/git-tutorial.md
+
+[git-tutorial](https://github.com/kk4m10/hello-world/blob/main/git-tutorial.md)
